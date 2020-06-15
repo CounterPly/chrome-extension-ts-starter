@@ -39,11 +39,12 @@
     "chrome": true
   },
   "rules": {
+
     "curly": [
       "warn",
       "all"
     ],
-    "no-console": "warn",
+    "no-console": "off",
     "@typescript-eslint/member-delimiter-style": "off",
     "@typescript-eslint/type-annotation-spacing": "off",
     "@typescript-eslint/ban-ts-ignore": "off",
